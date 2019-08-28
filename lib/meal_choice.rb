@@ -1,1 +1,6 @@
-# Your code here
+# Method that take two required arguments and one optional argument
+
+def meal_choice(veg1, veg2, protein = "meat")
+  puts "What a nutritious meal!"
+   "A plate of #{protein} with #{veg1} and #{veg2}."
+end
