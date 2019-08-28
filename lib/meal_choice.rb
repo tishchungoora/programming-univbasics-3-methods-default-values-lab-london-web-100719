@@ -1,4 +1,4 @@
-# Method that takes two required arguments and one optional argument
+# Method that takes two required arguments and one optional argument and returns a string
 
 def meal_choice(veg1, veg2, protein = "meat")
   puts "What a nutritious meal!"
